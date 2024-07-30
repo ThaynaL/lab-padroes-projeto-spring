@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof;
+package singleton;
 
 public class teste {
 
