@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.strategy;
+package strate;
 
 public class comportamentoAgressivo implements comportamento{
 		public void mover() {
